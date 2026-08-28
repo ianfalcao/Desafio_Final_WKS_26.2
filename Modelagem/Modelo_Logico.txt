@@ -1,0 +1,91 @@
+TABELA: PLANO_SAUDE
+  - id_plano (PK)
+  - nome_plano
+  - registro_ans
+  - cnpj_operadora
+  - telefone_suporte
+  - cobertura_tipo
+  - validade_contrato
+  - ativo
+
+TABELA: PACIENTE
+  - id_paciente (PK)
+  - cpf (UNIQUE)
+  - nome_completo
+  - data_nascimento
+  - genero
+  - endereco
+  - telefone
+  - email
+  - data_cadastro
+  - id_plano (FK) -> Referencia PLANO_SAUDE(id_plano)
+
+TABELA: MEDICO
+  - id_medico (PK)
+  - crm (UNIQUE)
+  - uf_crm
+  - nome_completo
+  - telefone
+  - email
+  - data_contratacao
+  - ativo
+
+TABELA: ESPECIALIDADE
+  - id_especialidade (PK)
+  - nome_especialidade
+  - codigo_amb
+  - descricao
+  - tempo_medio_consulta
+  - valor_base
+  - requer_preparo
+  - ativa
+
+TABELA: MEDICO_ESPECIALIDADE (Tabela Intermediária - Relacionamento N:M)
+  - id_medico (PK, FK) -> Referencia MEDICO(id_medico)
+  - id_especialidade (PK, FK) -> Referencia ESPECIALIDADE(id_especialidade)
+
+TABELA: DISPONIBILIDADE
+  - id_disponibilidade (PK)
+  - turno
+  - dia_semana
+  - horario_inicio
+  - horario_fim
+  - duracao_slot
+  - sala_atendimento
+  - ativo
+
+TABELA: CONSULTA
+  - id_consulta (PK)
+  - data_hora
+  - status
+  - valor_final
+  - observacoes_agendamento
+  - motivo_consulta
+  - sala_atendimento
+  - altura_paciente_cm
+  - id_paciente (FK) -> Referencia PACIENTE(id_paciente)
+  - id_medico (FK) -> Referencia MEDICO(id_medico)
+  - id_disponibilidade (FK, Optional/Nullable) -> Referencia DISPONIBILIDADE(id_disponibilidade)
+
+TABELA: PRONTUARIO_ELETRONICO
+  - id_prontuario (PK)
+  - data_registro
+  - queixa_principal
+  - diagnostico
+  - prescricao_medica
+  - exames_solicitados
+  - retorno_necessario
+  - historico_familiar
+  - atestado_dias
+  - id_consulta (FK, UNIQUE) -> Referencia CONSULTA(id_consulta)
+
+TABELA: PAGAMENTO
+  - id_pagamento (PK)
+  - valor_pago
+  - data_pagamento
+  - metodo_pagamento
+  - status_pagamento
+  - desconto_aplicado
+  - codigo_transacao
+  - numero_nota_fiscal
+  - id_consulta (FK, UNIQUE) -> Referencia CONSULTA(id_consulta)
