@@ -40,10 +40,6 @@ TABELA: ESPECIALIDADE
   - requer_preparo
   - ativa
 
-TABELA: MEDICO_ESPECIALIDADE (Tabela Intermediária - Relacionamento N:M)
-  - id_medico (PK, FK) -> Referencia MEDICO(id_medico)
-  - id_especialidade (PK, FK) -> Referencia ESPECIALIDADE(id_especialidade)
-
 TABELA: DISPONIBILIDADE
   - id_disponibilidade (PK)
   - turno
