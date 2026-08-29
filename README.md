@@ -12,6 +12,7 @@ A **ClínicaCare** é uma instituição de saúde de médio porte localizada em 
 
 ## 🛠️ Estrutura do Repositório
 
+```text
 Desafio_Final_WKS_26.2/
 ├── 1_Modelagem/
 │   ├── Modelo_Conceitual_ER.pdf
@@ -27,7 +28,7 @@ Desafio_Final_WKS_26.2/
 │   ├── dados.csv
 │   └── Insights_Dashboard.docx
 └── README.md
-
+```
 
 ---
 
