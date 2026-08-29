@@ -1,0 +1,301 @@
+id_paciente	idade	genero	tipo_plano	tempo_cliente_meses	total_consultas	consultas_canceladas	valor_medio_consulta	total_pagamentos	pagamentos_em_dia	numero_atrasos	atraso_medio_dias	maior_atraso_dias	percentual_atrasos	valor_total_devido	desconto_medio	principal_metodo_pagamento	pagamentos_pendentes	pagamentos_inadimplentes	status_pagamento	risco_inadimplencia
+1	56	F	Bradesco Saúde	9	19	4	2.673,00	4	3	1	154	35	250	0	219	Dinheiro	0	0	Pago	Alto
+2	69	M	Particular	53	28	0	40.519,00	25	21	4	65	18	160	47359	406	PIX	1	1	Pago	Medio
+3	46	Outro	Unimed	74	23	4	30.419,00	21	12	9	108	26	4286	126525	1997	Cartão	4	1	Pendente	Alto
+4	32	F	Bradesco Saúde	44	30	4	29.817,00	33	18	15	229	45	4545	205607	1083	Dinheiro	7	3	Inadimplente	Alto
+5	60	M	Unimed	66	4	2	13.128,00	7	4	3	143	32	4286	0	568	PIX	0	1	Pago	Alto
+6	25	M	Bradesco Saúde	17	3	3	44.561,00	21	15	6	202	48	2857	52189	199	Cartão	1	0	Pago	Alto
+7	78	F	Unimed	31	38	1	16.058,00	36	25	11	155	34	3056	70276	1933	Cartão	4	2	Pendente	Alto
+8	38	M	Unimed	35	28	5	19.627,00	12	7	5	76	9	4167	13975	881	Cartão	1	1	Pago	Alto
+9	56	F	Unimed	96	31	3	13.706,00	27	25	2	10	2	741	13255	521	Cartão	1	0	Pago	Medio
+10	75	M	Amil	29	23	5	3.312,00	4	2	2	253	63	500	0	1677	Boleto	0	0	Pago	Alto
+11	36	M	Amil	38	13	2	19.415,00	13	7	6	218	36	4615	41717	1431	Boleto	2	2	Pendente	Alto
+12	40	M	Bradesco Saúde	31	13	2	1.794,00	33	27	6	162	38	1818	2894	1374	PIX	2	2	Pendente	Alto
+13	28	F	Particular	40	38	2	14.922,00	17	11	6	144	26	3529	33831	1786	Boleto	2	1	Pendente	Alto
+14	28	M	Hapvida	59	37	0	15.409,00	11	10	1	33	7	909	0	1379	PIX	0	0	Pago	Baixo
+15	41	F	Hapvida	29	36	5	31.294,00	25	17	8	135	18	320	102439	568	PIX	4	2	Pendente	Alto
+16	70	F	SulAmérica	57	26	3	34.711,00	21	19	2	56	8	952	39616	1388	Cartão	1	1	Pago	Medio
+17	53	F	Hapvida	35	24	3	25.114,00	11	9	2	57	16	1818	18798	612	Cartão	1	1	Pago	Medio
+18	57	M	Particular	70	7	4	27.837,00	37	29	8	84	22	2162	20261	1518	Cartão	1	3	Inadimplente	Alto
+19	41	M	Unimed	88	35	4	34.637,00	23	8	15	270	61	6522	132419	1239	Boleto	5	6	Inadimplente	Alto
+20	20	F	Particular	68	38	4	12.574,00	11	11	0	0	0	0	0	155	Cartão	0	0	Pago	Baixo
+21	39	M	Unimed	12	22	2	22.663,00	30	24	6	115	26	200	76318	1026	Cartão	3	0	Pendente	Medio
+22	70	F	SulAmérica	7	21	3	44.112,00	9	7	2	88	19	2222	0	687	PIX	0	1	Pago	Medio
+23	19	M	Bradesco Saúde	76	37	5	31.144,00	18	8	10	108	23	5556	78093	657	Boleto	3	2	Pendente	Alto
+24	41	F	Particular	40	19	2	20.389,00	18	16	2	83	11	1111	0	1205	Boleto	0	0	Pago	Medio
+25	61	M	Unimed	15	36	0	29.217,00	35	26	9	88	19	2571	9907	645	Boleto	4	3	Inadimplente	Alto
+26	47	F	Bradesco Saúde	33	11	4	23.308,00	6	5	1	200	49	1667	0	1554	PIX	0	0	Pago	Alto
+27	55	M	Particular	49	28	2	29.564,00	6	5	1	125	35	1667	0	142	PIX	0	0	Pago	Medio
+28	19	F	Bradesco Saúde	90	4	2	16.149,00	19	18	1	53	6	526	0	1321	PIX	0	0	Pago	Medio
+29	77	F	Amil	54	11	0	1.638,00	39	25	14	252	60	359	55328	1618	PIX	3	5	Inadimplente	Alto
+30	38	F	Amil	58	11	1	16.737,00	31	23	8	108	23	2581	55664	1346	Cartão	3	1	Pendente	Medio
+31	50	M	Bradesco Saúde	17	19	3	43.014,00	38	38	0	0	0	0	0	994	Boleto	0	0	Pago	Baixo
+32	29	M	Amil	31	3	5	36.186,00	40	31	9	103	14	225	83073	1901	Cartão	2	3	Inadimplente	Alto
+33	75	F	Bradesco Saúde	10	27	1	17.359,00	39	16	23	251	47	5897	136428	60	PIX	11	2	Pendente	Alto
+34	39	M	Particular	7	27	4	18.216,00	37	22	15	220	39	4054	29868	38	PIX	2	3	Inadimplente	Alto
+35	78	M	Unimed	31	37	2	36.117,00	9	7	2	93	16	2222	0	864	PIX	0	1	Pago	Medio
+36	61	M	Hapvida	49	5	0	17.153,00	29	17	12	134	32	4138	89325	66	PIX	6	2	Pendente	Alto
+37	42	M	Particular	70	39	0	19.741,00	30	22	8	113	26	2667	18891	1908	PIX	1	1	Pago	Medio
+38	66	F	SulAmérica	78	32	3	4.379,00	24	24	0	0	0	0	0	42	PIX	0	0	Pago	Baixo
+39	44	F	Bradesco Saúde	47	40	1	20.425,00	16	11	5	148	40	3125	35498	1578	Boleto	2	1	Pendente	Alto
+40	76	M	Amil	4	36	3	33.834,00	9	7	2	130	23	2222	0	1549	Dinheiro	0	0	Pago	Medio
+41	80	M	Hapvida	29	14	2	44.295,00	39	28	11	99	16	2821	105478	435	PIX	3	4	Inadimplente	Alto
+42	59	M	Unimed	38	21	3	24.352,00	24	15	9	140	31	375	52371	1242	Cartão	2	3	Inadimplente	Alto
+43	45	F	Bradesco Saúde	38	39	5	12.578,00	7	6	1	39	6	1429	0	96	Boleto	0	0	Pago	Medio
+44	77	F	Hapvida	28	19	0	20.057,00	4	4	0	0	0	0	0	967	PIX	0	0	Pago	Baixo
+45	33	M	Bradesco Saúde	45	12	0	39.419,00	29	21	8	113	18	2759	62495	29	PIX	2	1	Pendente	Medio
+46	32	M	Unimed	29	14	4	40.532,00	23	17	6	85	11	2609	32062	1842	Boleto	1	1	Pago	Medio
+47	79	M	Particular	71	18	4	37.361,00	40	20	20	225	57	500	214399	1952	PIX	6	8	Inadimplente	Alto
+48	79	M	Particular	22	26	2	15.733,00	17	11	6	193	31	3529	52976	445	Cartão	3	1	Pendente	Alto
+49	64	M	Amil	13	21	5	38.252,00	23	10	13	268	52	5652	169794	416	Cartão	6	6	Inadimplente	Alto
+50	79	F	Bradesco Saúde	76	10	1	42.316,00	12	7	5	205	26	4167	89158	1507	PIX	2	1	Pendente	Alto
+51	68	F	Hapvida	40	33	3	3.182,00	25	19	6	121	28	240	65369	507	PIX	2	2	Pendente	Medio
+52	61	M	SulAmérica	8	23	2	43.049,00	7	7	0	0	0	0	0	179	Boleto	0	0	Pago	Baixo
+53	72	M	Amil	74	19	4	39.286,00	3	3	0	0	0	0	0	1148	PIX	0	0	Pago	Baixo
+54	69	F	Unimed	25	25	3	3.401,00	15	12	3	156	29	200	31461	702	PIX	1	1	Pago	Alto
+55	74	F	Particular	49	39	4	31.047,00	23	8	15	284	43	6522	252735	1665	Boleto	7	5	Inadimplente	Alto
+56	20	M	SulAmérica	92	18	3	23.503,00	28	25	3	39	8	1071	24208	987	Cartão	1	1	Pago	Medio
+57	54	F	Particular	48	8	1	17.256,00	23	22	1	67	9	435	0	1823	PIX	0	0	Pago	Medio
+58	68	F	Amil	14	10	2	31.963,00	20	15	5	115	22	250	48949	1856	Boleto	2	1	Pendente	Medio
+59	24	M	Amil	92	27	3	22.498,00	39	36	3	79	13	769	18701	331	Cartão	1	0	Pago	Medio
+60	38	M	Hapvida	15	20	5	40.592,00	34	32	2	55	15	588	40211	5	Boleto	1	0	Pago	Medio
+61	26	M	Particular	64	27	0	4.478,00	38	33	5	15	2	1316	47426	1968	Boleto	1	1	Pago	Medio
+62	56	F	SulAmérica	84	14	5	3.683,00	19	17	2	46	11	1053	0	1812	Cartão	0	1	Pago	Medio
+63	35	M	Unimed	91	17	5	14.986,00	37	24	13	164	24	3514	14983	111	Cartão	1	2	Pago	Alto
+64	21	F	Unimed	62	28	0	21.527,00	13	9	4	184	31	3077	41985	1666	Dinheiro	2	1	Pendente	Alto
+65	42	F	Hapvida	45	28	5	15.601,00	23	20	3	45	8	1304	0	916	PIX	0	1	Pago	Medio
+66	77	M	SulAmérica	78	34	3	33.467,00	28	16	12	157	42	4286	174875	518	Boleto	5	4	Inadimplente	Alto
+67	31	M	Particular	70	12	3	37.251,00	6	6	0	0	0	0	0	1757	PIX	0	0	Pago	Baixo
+68	67	M	Unimed	7	18	3	42.547,00	36	29	7	98	13	1944	36654	393	PIX	1	1	Pago	Medio
+69	75	M	Bradesco Saúde	39	9	0	2.646,00	20	14	6	125	21	300	60567	1895	PIX	2	1	Pendente	Medio
+70	26	M	Hapvida	74	19	5	41.745,00	37	23	14	126	17	3784	195446	411	Dinheiro	6	6	Inadimplente	Alto
+71	43	F	Particular	94	25	0	4.097,00	31	9	22	333	47	7097	9667	1227	Dinheiro	3	9	Inadimplente	Alto
+72	70	F	SulAmérica	33	28	3	22.467,00	31	27	4	44	9	129	18724	446	PIX	1	1	Pago	Medio
+73	19	F	SulAmérica	11	23	5	40.674,00	40	22	18	203	26	450	154513	1091	PIX	5	5	Inadimplente	Alto
+74	37	F	Bradesco Saúde	53	24	5	24.397,00	23	14	9	150	19	3913	39775	1368	Boleto	2	1	Pendente	Alto
+75	45	Outro	Hapvida	31	9	4	21.797,00	15	13	2	90	21	1333	0	38	Cartão	0	1	Pago	Medio
+76	64	F	Hapvida	80	16	4	33.419,00	19	13	6	166	30	3158	111373	1042	PIX	3	2	Pendente	Alto
+77	77	M	Unimed	42	17	1	22.837,00	11	9	2	94	13	1818	17573	938	Cartão	1	1	Pago	Medio
+78	24	M	SulAmérica	43	9	2	32.797,00	3	3	0	0	0	0	0	142	Cartão	0	0	Pago	Baixo
+79	61	M	SulAmérica	88	11	4	32.124,00	4	4	0	0	0	0	0	1637	Dinheiro	0	0	Pago	Baixo
+80	78	M	Particular	13	10	0	30.593,00	31	24	7	100	16	2258	107772	671	PIX	3	1	Pendente	Medio
+81	25	M	Particular	25	25	4	24.554,00	35	27	8	10	2	2286	77756	1149	Cartão	3	1	Pendente	Medio
+82	64	M	Bradesco Saúde	3	31	1	3.010,00	12	7	5	186	26	4167	42345	103	Cartão	2	0	Pendente	Alto
+83	52	F	SulAmérica	48	20	5	31.684,00	23	20	3	49	10	1304	3428	1027	Boleto	1	1	Pago	Medio
+84	31	M	Particular	23	33	1	30.008,00	30	17	13	165	28	4333	172313	214	Cartão	6	1	Pendente	Alto
+85	34	F	SulAmérica	92	32	5	26.666,00	13	7	6	227	50	4615	58115	847	Cartão	2	1	Pendente	Alto
+86	53	F	Hapvida	38	37	5	12.484,00	36	27	9	150	37	250	36001	905	PIX	3	2	Pendente	Medio
+87	67	M	Bradesco Saúde	56	20	2	31.373,00	10	7	3	133	29	300	32017	1467	Boleto	1	0	Pago	Medio
+88	57	F	Unimed	89	19	4	17.559,00	24	15	9	128	21	375	57585	168	Cartão	3	1	Pendente	Alto
+89	21	M	Particular	59	16	0	33.205,00	10	6	4	175	28	400	29969	109	PIX	1	1	Pago	Alto
+90	19	M	Amil	3	33	0	37.058,00	17	12	5	123	21	2941	25991	174	Cartão	1	1	Pago	Medio
+91	79	M	Hapvida	65	26	3	28.515,00	19	18	1	69	10	526	0	474	PIX	0	0	Pago	Medio
+92	23	F	Amil	56	37	5	29.898,00	25	16	9	131	20	360	79868	33	PIX	3	1	Pendente	Alto
+93	71	F	Amil	57	36	0	43.399,00	26	21	5	95	23	1923	41143	249	Boleto	1	2	Pago	Medio
+94	59	M	Hapvida	42	5	2	39.957,00	21	19	2	50	9	952	28125	732	Cartão	1	1	Pago	Medio
+95	21	F	Unimed	17	39	5	4.217,00	7	6	1	122	23	1429	0	459	Boleto	0	0	Pago	Medio
+96	71	Outro	Amil	23	28	2	38.854,00	34	30	4	16	3	1176	46362	437	PIX	1	1	Pago	Medio
+97	46	Outro	Bradesco Saúde	49	25	0	15.594,00	3	2	1	202	43	3333	0	109	Boleto	0	0	Pago	Alto
+98	80	M	SulAmérica	75	17	0	16.917,00	25	18	7	84	11	280	15187	35	PIX	1	2	Pago	Medio
+99	35	F	Bradesco Saúde	55	6	3	29.379,00	39	32	7	90	23	1795	3066	206	PIX	1	0	Pago	Medio
+100	43	F	SulAmérica	11	31	0	2.012,00	10	6	4	131	19	400	44562	344	Dinheiro	2	1	Pendente	Alto
+101	61	M	Bradesco Saúde	76	24	5	27.731,00	15	12	3	180	42	200	25199	862	Boleto	1	1	Pago	Alto
+102	51	F	Bradesco Saúde	54	27	5	25.014,00	10	4	6	213	52	600	21383	1021	Cartão	1	1	Pago	Alto
+103	27	F	SulAmérica	59	15	5	30.131,00	25	15	10	141	33	400	176103	281	PIX	5	1	Pendente	Alto
+104	79	M	Hapvida	28	20	3	36.647,00	3	3	0	0	0	0	0	85	Boleto	0	0	Pago	Baixo
+105	53	M	Unimed	43	35	3	35.611,00	26	16	10	117	14	3846	108188	683	Cartão	4	4	Inadimplente	Alto
+106	31	M	Unimed	37	18	0	29.201,00	37	18	19	262	47	5135	171577	367	Boleto	8	2	Pendente	Alto
+107	48	M	Amil	65	4	1	39.139,00	26	17	9	176	38	3462	3686	14	Boleto	1	2	Pago	Alto
+108	65	F	Amil	27	37	1	26.218,00	19	17	2	10	2	1053	21238	934	PIX	1	0	Pago	Medio
+109	32	M	Amil	92	36	3	41.592,00	7	4	3	197	51	4286	34396	1371	PIX	1	1	Pago	Alto
+110	25	Outro	Unimed	77	32	0	14.352,00	22	13	9	197	33	4091	65379	453	Cartão	4	1	Pendente	Alto
+111	31	F	Unimed	40	15	1	43.504,00	23	12	11	222	37	4783	97203	264	PIX	3	2	Pendente	Alto
+112	40	M	Unimed	4	15	0	33.605,00	33	25	8	118	19	2424	10663	1774	PIX	3	3	Inadimplente	Alto
+113	77	M	Hapvida	9	20	0	24.542,00	38	22	16	150	26	4211	102533	55	Dinheiro	5	4	Inadimplente	Alto
+114	74	M	Bradesco Saúde	84	34	0	18.506,00	13	10	3	121	25	2308	1999	447	Cartão	1	1	Pago	Medio
+115	79	M	Hapvida	93	34	4	27.813,00	17	15	2	22	5	1176	29515	1714	Boleto	1	0	Pago	Medio
+116	57	M	Bradesco Saúde	36	37	5	1.842,00	21	11	10	211	48	4762	51848	1634	Cartão	4	2	Pendente	Alto
+117	38	F	Particular	93	31	0	17.489,00	9	4	5	175	44	5556	33389	897	Cartão	2	2	Pendente	Alto
+118	33	F	Hapvida	19	31	4	32.373,00	30	21	9	172	45	300	74749	978	PIX	3	1	Pendente	Alto
+119	62	M	Bradesco Saúde	45	18	3	29.262,00	7	7	0	0	0	0	0	435	PIX	0	0	Pago	Baixo
+120	35	M	SulAmérica	61	12	1	34.113,00	7	5	2	189	23	2857	38745	157	PIX	1	0	Pago	Alto
+121	64	M	Hapvida	53	32	5	42.677,00	32	21	11	88	21	3438	194004	1147	Cartão	5	4	Inadimplente	Alto
+122	70	M	Amil	56	27	1	29.565,00	34	5	29	360	55	8529	299913	197	Boleto	11	12	Inadimplente	Alto
+123	41	M	SulAmérica	26	22	5	31.171,00	10	7	3	164	23	300	26547	899	PIX	1	1	Pago	Alto
+124	43	M	Particular	27	7	1	14.958,00	12	12	0	0	0	0	0	1881	Cartão	0	0	Pago	Baixo
+125	42	M	Unimed	73	3	5	35.682,00	40	35	5	10	2	125	62753	1906	Cartão	2	1	Pendente	Medio
+126	77	M	Particular	54	32	1	25.197,00	34	30	4	10	1	1176	21012	479	PIX	1	1	Pago	Medio
+127	77	M	Bradesco Saúde	72	5	1	44.232,00	30	29	1	16	2	333	0	1248	Cartão	0	0	Pago	Baixo
+128	77	M	Hapvida	90	16	1	39.165,00	19	13	6	124	15	3158	58414	948	PIX	2	1	Pendente	Alto
+129	62	M	Bradesco Saúde	35	32	1	29.242,00	33	15	18	215	57	5455	251084	1751	PIX	8	8	Inadimplente	Alto
+130	58	F	Particular	51	6	3	16.066,00	10	9	1	54	7	100	0	543	PIX	0	0	Pago	Medio
+131	46	F	Bradesco Saúde	31	20	0	40.361,00	27	22	5	123	19	1852	82517	7	PIX	2	2	Pendente	Medio
+132	32	F	Hapvida	65	39	2	38.393,00	11	8	3	161	30	2727	30385	325	Boleto	1	1	Pago	Alto
+133	62	M	Amil	24	27	4	18.091,00	4	3	1	145	26	250	0	699	PIX	0	0	Pago	Medio
+134	18	F	Hapvida	28	3	2	21.744,00	17	17	0	0	0	0	0	631	PIX	0	0	Pago	Baixo
+135	42	F	Unimed	30	17	2	38.182,00	5	3	2	80	10	400	45684	1583	Cartão	1	0	Pago	Alto
+136	24	M	Unimed	87	11	5	18.113,00	38	32	6	74	15	1579	39445	1361	PIX	2	1	Pendente	Medio
+137	26	F	Unimed	51	17	0	42.286,00	6	4	2	124	28	3333	34375	599	Boleto	1	0	Pago	Alto
+138	41	M	Unimed	73	26	5	26.009,00	16	12	4	97	26	250	20495	915	Cartão	1	0	Pago	Medio
+139	18	F	Unimed	83	6	0	14.872,00	27	13	14	199	44	5185	67407	191	Cartão	4	4	Inadimplente	Alto
+140	61	F	Amil	86	14	0	3.892,00	12	9	3	113	28	250	35888	1796	Cartão	1	1	Pago	Medio
+141	25	M	Unimed	51	39	1	24.326,00	23	20	3	81	11	1304	18695	1871	PIX	1	1	Pago	Medio
+142	41	F	Hapvida	22	39	3	29.374,00	38	27	11	107	19	2895	6645	196	Cartão	2	3	Inadimplente	Alto
+143	80	F	SulAmérica	88	8	1	15.706,00	14	12	2	28	5	1429	17403	1737	PIX	1	0	Pago	Medio
+144	28	M	Bradesco Saúde	94	26	3	12.085,00	29	19	10	188	49	3448	43214	348	Boleto	3	4	Inadimplente	Alto
+145	68	M	Amil	65	13	5	33.054,00	4	2	2	224	32	500	38173	92	PIX	1	0	Pago	Alto
+146	34	F	Unimed	63	15	3	29.001,00	15	10	5	113	16	3333	65304	1159	Cartão	2	1	Pendente	Alto
+147	25	M	Unimed	51	36	5	31.587,00	34	31	3	60	10	882	22941	1825	Cartão	1	1	Pago	Medio
+148	52	F	Unimed	73	27	2	38.194,00	33	25	8	163	21	2424	2873	355	PIX	1	3	Inadimplente	Alto
+149	52	F	Unimed	3	9	2	33.338,00	18	11	7	168	25	3889	65642	14	PIX	2	1	Pendente	Alto
+150	50	M	Hapvida	15	6	3	17.768,00	34	32	2	10	3	588	0	1611	Boleto	0	0	Pago	Baixo
+151	76	M	Unimed	96	10	3	23.905,00	34	21	13	210	40	3824	88829	154	Boleto	4	4	Inadimplente	Alto
+152	22	M	Unimed	89	22	5	41.894,00	36	25	11	154	34	3056	188187	827	PIX	5	1	Pendente	Alto
+153	59	M	Unimed	53	31	1	37.408,00	13	7	6	182	43	4615	68502	1358	Boleto	2	2	Pendente	Alto
+154	56	Outro	Bradesco Saúde	58	12	5	30.369,00	12	8	4	185	33	3333	29903	474	Dinheiro	1	2	Pago	Alto
+155	75	M	Unimed	85	36	1	20.436,00	17	16	1	71	10	588	0	168	Boleto	0	0	Pago	Medio
+156	58	F	Hapvida	64	28	2	21.968,00	19	12	7	92	14	3684	18241	154	PIX	1	0	Pago	Alto
+157	45	M	Bradesco Saúde	34	5	0	36.155,00	20	10	10	171	29	500	104033	126	Boleto	3	1	Pendente	Alto
+158	24	F	Amil	32	8	3	40.089,00	11	7	4	199	44	3636	42539	1977	PIX	1	1	Pago	Alto
+159	26	F	Unimed	31	7	1	34.157,00	27	25	2	38	7	741	26884	689	Dinheiro	1	0	Pago	Medio
+160	25	F	SulAmérica	51	7	5	38.714,00	16	13	3	148	18	1875	37686	124	Cartão	1	0	Pago	Medio
+161	29	F	Amil	47	25	2	3.730,00	27	21	6	34	7	2222	118304	1469	PIX	3	1	Pendente	Medio
+162	51	Outro	Unimed	95	11	1	1.694,00	24	17	7	153	41	2917	31248	1043	Boleto	2	3	Inadimplente	Alto
+163	50	M	SulAmérica	32	37	5	2.599,00	32	26	6	63	16	1875	18545	426	PIX	1	3	Inadimplente	Alto
+164	65	M	Particular	18	22	3	17.048,00	22	19	3	48	12	1364	15763	1563	Dinheiro	1	0	Pago	Medio
+165	72	F	Unimed	42	37	3	19.763,00	23	15	8	154	38	3478	33527	408	Dinheiro	2	1	Pendente	Alto
+166	40	F	Hapvida	21	20	4	40.686,00	34	22	12	119	20	3529	94784	521	Cartão	2	3	Inadimplente	Alto
+167	79	F	SulAmérica	20	19	0	27.605,00	23	18	5	107	26	2174	42087	185	PIX	2	1	Pendente	Medio
+168	41	F	Amil	3	26	4	29.667,00	37	20	17	199	28	4595	182672	799	Cartão	6	5	Inadimplente	Alto
+169	54	M	Unimed	80	5	2	17.889,00	34	16	18	258	58	5294	90957	838	PIX	7	6	Inadimplente	Alto
+170	52	M	Unimed	49	34	1	22.305,00	32	28	4	102	23	125	20589	1029	PIX	1	2	Pago	Medio
+171	61	M	Hapvida	68	37	2	19.598,00	14	4	10	314	39	7143	57441	1418	Boleto	3	3	Inadimplente	Alto
+172	57	F	Bradesco Saúde	94	40	5	18.804,00	20	12	8	146	36	400	31928	1812	PIX	2	2	Pendente	Alto
+173	39	M	Amil	96	15	3	33.053,00	23	22	1	10	3	435	0	275	PIX	0	0	Pago	Baixo
+174	44	M	Hapvida	40	27	4	20.477,00	15	15	0	0	0	0	0	109	Dinheiro	0	0	Pago	Baixo
+175	52	M	Bradesco Saúde	53	11	4	32.857,00	23	16	7	121	30	3043	83989	37	PIX	3	2	Pendente	Alto
+176	18	M	Amil	65	6	4	13.929,00	10	8	2	89	12	200	0	287	PIX	0	0	Pago	Medio
+177	52	F	Unimed	6	16	2	16.679,00	9	9	0	0	0	0	0	1316	Boleto	0	0	Pago	Baixo
+178	54	F	Hapvida	3	39	3	2.106,00	25	19	6	97	19	240	24216	1455	PIX	1	1	Pago	Medio
+179	64	F	Amil	10	36	1	31.703,00	34	31	3	44	9	882	32153	1573	Boleto	1	1	Pago	Medio
+180	31	M	SulAmérica	31	13	5	34.303,00	13	10	3	135	36	2308	0	487	Dinheiro	0	1	Pago	Medio
+181	20	F	Bradesco Saúde	57	5	1	2.661,00	24	12	12	171	44	500	19143	612	Boleto	1	2	Pago	Alto
+182	18	F	Bradesco Saúde	5	30	2	26.711,00	24	13	11	196	48	4583	76108	966	Cartão	3	2	Pendente	Alto
+183	22	F	Unimed	34	31	5	35.909,00	27	20	7	118	19	2593	77735	126	PIX	2	1	Pendente	Medio
+184	43	F	Bradesco Saúde	12	11	4	12.522,00	24	24	0	0	0	0	0	1222	PIX	0	0	Pago	Baixo
+185	72	M	Bradesco Saúde	76	5	0	23.256,00	30	14	16	256	35	5333	51321	1967	Boleto	2	2	Pendente	Alto
+186	80	M	Hapvida	85	27	2	39.017,00	31	25	6	149	38	1935	32224	722	Boleto	1	3	Inadimplente	Alto
+187	31	F	Hapvida	36	36	2	31.906,00	15	13	2	117	20	1333	35475	1506	Cartão	1	1	Pago	Medio
+188	56	F	Hapvida	89	14	3	23.128,00	20	11	9	191	25	450	34351	100	PIX	2	3	Inadimplente	Alto
+189	44	M	Unimed	57	11	1	41.882,00	4	3	1	203	46	250	0	256	PIX	0	0	Pago	Alto
+190	26	F	Hapvida	94	17	2	37.497,00	31	17	14	216	34	4516	71214	1164	PIX	2	1	Pendente	Alto
+191	32	F	Unimed	34	27	2	20.742,00	23	10	13	271	43	5652	70379	60	Cartão	4	2	Pendente	Alto
+192	32	F	Hapvida	52	7	4	33.295,00	17	10	7	179	30	4118	8316	69	Cartão	3	3	Inadimplente	Alto
+193	43	F	Unimed	9	13	4	3.166,00	29	22	7	35	5	2414	29001	127	Boleto	1	1	Pago	Medio
+194	59	M	SulAmérica	95	36	5	25.239,00	33	28	5	107	16	1515	6055	1718	Boleto	2	1	Pendente	Medio
+195	77	M	Bradesco Saúde	10	26	0	2.411,00	17	10	7	240	29	4118	58599	69	PIX	3	2	Pendente	Alto
+196	30	F	Amil	67	17	3	23.337,00	25	15	10	178	34	400	35081	781	Cartão	2	2	Pendente	Alto
+197	68	F	SulAmérica	59	40	0	32.366,00	26	18	8	97	13	3077	128495	1782	Cartão	4	3	Inadimplente	Alto
+198	80	M	Bradesco Saúde	69	10	5	2.660,00	15	12	3	147	34	200	25118	1627	Cartão	1	0	Pago	Medio
+199	49	M	Unimed	90	7	4	39.451,00	24	20	4	114	18	1667	37956	143	Boleto	1	1	Pago	Medio
+200	56	M	Bradesco Saúde	89	28	1	34.097,00	39	23	16	197	53	4103	140953	498	Boleto	4	4	Inadimplente	Alto
+201	66	M	Bradesco Saúde	61	20	4	14.308,00	35	10	25	345	89	7143	7156	182	Boleto	6	9	Inadimplente	Alto
+202	69	F	Amil	74	8	3	33.126,00	5	3	2	203	34	400	38272	309	PIX	1	0	Pago	Alto
+203	78	F	Bradesco Saúde	56	39	4	20.948,00	21	18	3	125	31	1429	19227	1254	PIX	1	1	Pago	Medio
+204	49	M	Unimed	69	15	3	31.563,00	25	15	10	170	42	400	96525	58	Boleto	4	4	Inadimplente	Alto
+205	21	F	Hapvida	53	30	3	34.444,00	31	29	2	10	3	645	36895	1287	PIX	1	0	Pago	Medio
+206	47	M	Hapvida	94	7	3	19.617,00	32	26	6	41	9	1875	4008	554	PIX	2	1	Pendente	Medio
+207	54	M	Amil	10	15	5	27.076,00	27	21	6	81	11	2222	46455	899	PIX	2	2	Pendente	Medio
+208	40	M	Bradesco Saúde	36	19	3	18.281,00	39	36	3	78	17	769	18478	691	Cartão	1	1	Pago	Medio
+209	56	F	Hapvida	37	34	3	13.727,00	10	5	5	156	34	500	22236	346	PIX	2	1	Pendente	Alto
+210	62	M	Particular	90	31	1	2.449,00	18	10	8	200	44	4444	2259	1244	Cartão	1	3	Inadimplente	Alto
+211	32	F	Amil	80	5	0	23.977,00	10	10	0	0	0	0	0	1764	Dinheiro	0	0	Pago	Baixo
+212	60	M	Hapvida	34	36	2	44.851,00	3	2	1	95	24	3333	0	1918	PIX	0	0	Pago	Alto
+213	46	M	Unimed	48	29	0	2.673,00	7	5	2	71	19	2857	0	385	PIX	0	1	Pago	Medio
+214	53	F	Unimed	18	15	3	23.008,00	5	4	1	133	21	200	0	1435	PIX	0	0	Pago	Medio
+215	30	Outro	Hapvida	70	35	1	31.156,00	3	2	1	200	27	3333	0	1329	Boleto	0	0	Pago	Alto
+216	49	M	Unimed	39	8	4	14.929,00	6	3	3	138	21	500	13839	687	PIX	1	1	Pago	Alto
+217	24	F	Unimed	56	26	1	43.735,00	37	29	8	68	17	2162	83403	38	PIX	2	2	Pendente	Medio
+218	76	F	Hapvida	87	21	3	32.954,00	34	25	9	98	22	2647	97486	138	PIX	3	1	Pendente	Medio
+219	68	F	Unimed	16	18	1	3.691,00	36	34	2	70	16	556	43043	1891	Boleto	1	0	Pago	Medio
+220	39	F	SulAmérica	57	30	1	17.626,00	27	27	0	0	0	0	0	1264	Cartão	0	0	Pago	Baixo
+221	45	F	Unimed	50	35	3	25.513,00	12	12	0	0	0	0	0	871	Boleto	0	0	Pago	Baixo
+222	19	M	Bradesco Saúde	84	15	5	25.949,00	23	20	3	26	4	1304	0	105	Boleto	0	0	Pago	Medio
+223	59	F	Hapvida	9	27	1	3.912,00	29	20	9	180	35	3103	10938	399	PIX	3	1	Pendente	Alto
+224	62	F	Particular	76	38	2	12.041,00	29	26	3	58	14	1034	13179	1501	Boleto	1	0	Pago	Medio
+225	79	M	Unimed	9	29	2	21.928,00	4	4	0	0	0	0	0	1493	PIX	0	0	Pago	Baixo
+226	74	F	Hapvida	35	40	1	44.381,00	15	12	3	118	32	200	45584	291	Boleto	1	1	Pago	Medio
+227	70	M	Particular	25	9	5	27.671,00	11	9	2	87	23	1818	0	1756	Cartão	0	0	Pago	Medio
+228	23	F	SulAmérica	87	7	4	24.623,00	38	20	18	185	34	4737	108954	538	Boleto	6	5	Inadimplente	Alto
+229	45	F	SulAmérica	21	33	3	15.954,00	24	15	9	172	34	375	25893	1965	PIX	2	3	Inadimplente	Alto
+230	45	M	Hapvida	21	25	2	44.147,00	28	10	18	330	77	6429	23944	766	PIX	6	6	Inadimplente	Alto
+231	61	M	Unimed	38	12	4	12.661,00	14	11	3	49	13	2143	11064	356	Cartão	1	1	Pago	Medio
+232	61	M	Amil	31	34	1	36.327,00	19	13	6	119	17	3158	25822	703	PIX	1	1	Pago	Alto
+233	37	M	Particular	62	32	4	37.364,00	16	12	4	91	15	250	55739	88	PIX	2	1	Pendente	Medio
+234	47	M	Bradesco Saúde	84	33	0	20.041,00	16	16	0	0	0	0	0	139	Cartão	0	0	Pago	Baixo
+235	79	F	Bradesco Saúde	4	20	2	34.161,00	36	21	15	162	35	4167	19466	1156	PIX	5	7	Inadimplente	Alto
+236	28	F	Hapvida	3	38	1	15.067,00	22	20	2	10	2	909	14421	1195	Cartão	1	0	Pago	Medio
+237	75	M	SulAmérica	49	4	3	20.483,00	13	13	0	0	0	0	0	1478	Boleto	0	0	Pago	Baixo
+238	72	M	Unimed	71	16	5	38.001,00	18	7	11	201	26	6111	94343	58	Cartão	3	1	Pendente	Alto
+239	45	Outro	Hapvida	22	15	1	40.535,00	33	25	8	59	10	2424	87875	1082	PIX	2	2	Pendente	Medio
+240	42	F	Bradesco Saúde	13	31	3	3.208,00	8	6	2	169	44	250	0	106	Cartão	0	1	Pago	Alto
+241	56	F	Bradesco Saúde	4	14	5	28.726,00	21	9	12	279	44	5714	28559	1402	PIX	1	1	Pago	Alto
+242	79	M	Hapvida	69	4	5	17.257,00	39	32	7	79	18	1795	2783	111	Dinheiro	2	2	Pendente	Medio
+243	50	F	Unimed	89	34	1	14.083,00	6	2	4	272	60	6667	10541	1823	PIX	1	1	Pago	Alto
+244	18	M	Amil	14	15	4	15.882,00	6	5	1	39	10	1667	0	1404	Cartão	0	0	Pago	Medio
+245	74	M	Hapvida	22	29	4	19.503,00	22	18	4	57	8	1818	19432	1015	Dinheiro	1	1	Pago	Medio
+246	44	F	Bradesco Saúde	7	19	5	23.275,00	12	9	3	165	46	250	25894	883	Boleto	1	0	Pago	Alto
+247	79	M	Unimed	39	33	4	2.457,00	26	10	16	307	65	6154	194205	261	Cartão	7	3	Inadimplente	Alto
+248	74	M	Bradesco Saúde	40	36	0	23.429,00	37	24	13	151	42	3514	130988	582	Boleto	6	4	Inadimplente	Alto
+249	69	F	Bradesco Saúde	96	26	5	19.889,00	28	20	8	134	36	2857	43443	1738	Dinheiro	2	2	Pendente	Medio
+250	30	M	Unimed	11	37	5	28.821,00	39	25	14	166	26	359	169099	1809	Cartão	5	1	Pendente	Alto
+251	58	M	Hapvida	55	8	3	39.234,00	40	21	19	246	32	475	262894	1	Cartão	8	8	Inadimplente	Alto
+252	20	M	Unimed	46	21	4	2.123,00	23	22	1	68	11	435	0	1188	Cartão	0	0	Pago	Medio
+253	56	F	Unimed	88	32	5	43.099,00	23	16	7	107	22	3043	100484	1439	Cartão	2	2	Pendente	Alto
+254	23	M	Particular	26	9	0	4.082,00	12	8	4	56	8	3333	70955	1237	Cartão	2	0	Pendente	Alto
+255	25	F	Hapvida	83	12	3	17.338,00	40	26	14	182	27	350	80236	163	Cartão	4	1	Pendente	Alto
+256	44	F	SulAmérica	76	34	1	37.947,00	6	5	1	44	9	1667	0	435	PIX	0	0	Pago	Medio
+257	26	M	Hapvida	32	36	5	30.961,00	22	18	4	154	19	1818	31918	501	PIX	1	1	Pago	Alto
+258	79	F	Amil	61	30	0	30.697,00	19	16	3	92	13	1579	0	1663	PIX	0	1	Pago	Medio
+259	54	F	SulAmérica	89	17	2	24.904,00	9	5	4	233	43	4444	53532	926	PIX	2	2	Pendente	Alto
+260	50	M	Bradesco Saúde	83	32	0	28.538,00	6	3	3	268	35	500	29958	974	PIX	1	1	Pago	Alto
+261	68	M	Bradesco Saúde	83	39	0	25.107,00	31	29	2	10	2	645	0	187	Cartão	0	0	Pago	Baixo
+262	59	M	Hapvida	16	31	3	29.811,00	16	12	4	151	30	250	21719	1274	PIX	1	1	Pago	Alto
+263	61	M	Hapvida	11	24	1	32.722,00	5	3	2	241	46	400	28518	1797	Boleto	1	0	Pago	Alto
+264	41	F	Particular	42	6	2	34.252,00	26	19	7	111	29	2692	70797	913	PIX	2	2	Pendente	Medio
+265	32	F	SulAmérica	68	22	4	29.572,00	39	25	14	158	32	359	66649	299	PIX	3	4	Inadimplente	Alto
+266	76	F	Particular	27	34	4	35.807,00	18	10	8	143	28	4444	101113	186	Boleto	4	3	Inadimplente	Alto
+267	71	M	Unimed	75	38	0	16.662,00	6	6	0	0	0	0	0	917	Cartão	0	0	Pago	Baixo
+268	49	M	Amil	24	6	3	18.995,00	26	21	5	90	23	1923	20094	363	PIX	1	1	Pago	Medio
+269	49	M	Particular	6	29	3	39.018,00	36	24	12	117	31	3333	185163	605	Boleto	4	3	Inadimplente	Alto
+270	41	M	Unimed	28	19	4	22.643,00	32	30	2	10	3	625	0	102	Boleto	0	1	Pago	Baixo
+271	58	F	Unimed	60	14	2	12.755,00	20	9	11	172	39	550	60394	937	PIX	5	4	Inadimplente	Alto
+272	69	M	Amil	31	24	1	17.075,00	21	18	3	83	12	1429	19375	1706	PIX	1	1	Pago	Medio
+273	66	F	Bradesco Saúde	89	19	2	19.379,00	33	31	2	30	5	606	20705	1867	Dinheiro	1	1	Pago	Medio
+274	79	M	SulAmérica	39	12	5	43.592,00	21	13	8	122	16	381	41435	1865	Cartão	1	1	Pago	Alto
+275	66	F	Unimed	77	3	5	3.091,00	21	18	3	45	12	1429	0	25	Cartão	0	1	Pago	Medio
+276	75	M	SulAmérica	72	24	1	4.278,00	24	11	13	263	59	5417	98644	764	Boleto	3	1	Pendente	Alto
+277	69	F	Unimed	20	28	4	3.098,00	26	16	10	171	41	3846	108631	56	PIX	3	3	Inadimplente	Alto
+278	29	F	Unimed	87	20	1	27.819,00	14	11	3	96	16	2143	24368	171	Cartão	1	1	Pago	Medio
+279	79	F	Unimed	44	16	3	22.353,00	32	26	6	52	13	1875	6190	718	PIX	3	1	Pendente	Medio
+280	56	M	SulAmérica	43	31	5	3.201,00	40	35	5	77	12	125	66314	1262	Boleto	2	1	Pendente	Medio
+281	19	M	Amil	40	14	0	16.594,00	33	18	15	181	22	4545	100703	143	Cartão	7	3	Inadimplente	Alto
+282	20	F	Bradesco Saúde	36	38	0	41.643,00	38	22	16	250	45	4211	206665	86	Cartão	6	7	Inadimplente	Alto
+283	66	F	Hapvida	19	37	4	39.368,00	21	14	7	158	33	3333	79958	613	PIX	2	3	Inadimplente	Alto
+284	54	M	SulAmérica	39	14	3	22.479,00	38	32	6	62	12	1579	16016	1924	PIX	1	2	Pago	Medio
+285	66	F	Hapvida	27	9	2	43.442,00	32	16	16	226	58	500	276386	1929	Cartão	6	5	Inadimplente	Alto
+286	73	M	SulAmérica	78	31	3	39.232,00	35	16	19	238	33	5429	112636	579	Boleto	3	7	Inadimplente	Alto
+287	34	M	Bradesco Saúde	89	13	0	33.988,00	20	11	9	188	39	450	34086	959	Cartão	1	2	Pago	Alto
+288	76	F	Hapvida	88	35	0	16.018,00	30	23	7	58	12	2333	32547	1946	PIX	2	2	Pendente	Medio
+289	66	F	Bradesco Saúde	87	8	5	27.782,00	13	10	3	122	20	2308	26769	1	Boleto	1	1	Pago	Medio
+290	19	Outro	Hapvida	29	17	3	28.702,00	35	29	6	96	24	1714	28451	825	PIX	1	1	Pago	Medio
+291	19	F	Amil	59	34	3	19.674,00	19	17	2	68	16	1053	20498	201	Dinheiro	1	0	Pago	Medio
+292	45	F	Bradesco Saúde	33	13	0	14.639,00	8	5	3	213	51	375	1576	1018	PIX	1	0	Pago	Alto
+293	71	M	Hapvida	8	25	2	37.632,00	6	3	3	231	60	500	4003	49	Cartão	1	0	Pago	Alto
+294	40	M	SulAmérica	93	28	4	16.027,00	22	17	5	87	21	2273	18188	814	PIX	1	2	Pago	Medio
+295	54	Outro	Hapvida	42	36	4	31.612,00	29	26	3	30	5	1034	25123	441	Boleto	1	1	Pago	Medio
+296	49	M	Bradesco Saúde	14	36	3	42.903,00	17	13	4	89	21	2353	77275	1067	Cartão	2	1	Pendente	Medio
+297	50	F	Particular	55	31	4	40.911,00	8	4	4	246	42	500	96051	1992	PIX	2	1	Pendente	Alto
+298	18	F	Amil	73	6	0	21.166,00	16	13	3	113	18	1875	19013	1601	PIX	1	0	Pago	Medio
+299	36	M	Unimed	12	19	0	40.098,00	13	10	3	194	26	2308	30572	1691	PIX	1	1	Pago	Alto
+300	79	M	Particular	47	37	3	12.011,00	11	6	5	172	41	4545	11563	1271	PIX	1	2	Pago	Alto
