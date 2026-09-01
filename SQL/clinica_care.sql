@@ -264,13 +264,10 @@ FROM CONSULTA c
 INNER JOIN PACIENTE p ON c.id_paciente = p.id_paciente
 LEFT JOIN PAGAMENTO pg ON c.id_consulta = pg.id_consulta;
 
--- DQL 8: Especialidades e Médicos com suas Respectivas Consultas
+-- DQL 8: Informativo dos Medicos e o Total de Atendimentos
 SELECT 
-    e.nome_especialidade,
     m.nome_completo AS medico,
     COUNT(c.id_consulta) AS total_atendimentos
-FROM ESPECIALIDADE e
-INNER JOIN MEDICO_ESPECIALIDADE me ON e.id_especialidade = me.id_especialidade
-INNER JOIN MEDICO m ON me.id_medico = m.id_medico
+FROM MEDICO m
 LEFT JOIN CONSULTA c ON m.id_medico = c.id_medico
-GROUP BY e.nome_especialidade, m.nome_completo;
+GROUP BY m.id_medico, m.nome_completo;
